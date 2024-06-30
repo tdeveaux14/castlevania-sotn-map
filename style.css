@@ -1,0 +1,14 @@
+html,
+body,
+#map_1 {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+#map_1 {
+  background-color: #000;
+  image-rendering: pixelated;
+}
